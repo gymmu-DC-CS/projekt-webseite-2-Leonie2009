@@ -8,3 +8,9 @@ Ich will sicher programieren, dass wenn man auch die Inhaltsangabe klickt, zu de
 
 Erste Texte:
 Ich wusste nicht wie man Abschnitte voneinander trennt, sodass sie nicht aneinander sein und ein Abschnitt leer dazwischen ist. Ich habe dann eine Freundin gefragt und sie hat mir gezeigt, dass ich einfach ein <br> als Zeile schreiben muss und es hat funktioniert.
+
+<header> Tag:
+Ich wusste nicht für was man den Tag <header> verwendet und habe dann online recherchiert und  auf einer Webseite eine sehr gute Erklärung gefunden. Er wird verwendet um einführende Inhalt oder auch eine Reihe von Navigationsverbindungen wie z.B. die Inhaltsangabe abzugrenzen und es für die Webseite einfacher zu machen, die Inhaltsangabe zu verstehen. Ich habe ihn auch genau dafür gebraucht gebraucht und mit <nav> meine Webseitenüberschrift mit der Inhaltsangabe gestaltet.
+
+<nav> Tag:
+DIeser Tag definiert eine Reihe von Navigationslinks. Ich habe ebenfalls mit Hilfe der gleichen Webseite wie vom Tag <header> gelernt für was man das Tag <nav> benötigt und wie man es programmieren muss. Ich benutze es wie oben schon erklärt.
