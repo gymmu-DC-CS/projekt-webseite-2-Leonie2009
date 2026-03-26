@@ -13,4 +13,10 @@ Ich wusste nicht wie man Abschnitte voneinander trennt, sodass sie nicht aneinan
 Ich wusste nicht für was man den Tag <header> verwendet und habe dann online recherchiert und  auf einer Webseite eine sehr gute Erklärung gefunden. Er wird verwendet um einführende Inhalt oder auch eine Reihe von Navigationsverbindungen wie z.B. die Inhaltsangabe abzugrenzen und es für die Webseite einfacher zu machen, die Inhaltsangabe zu verstehen. Ich habe ihn auch genau dafür gebraucht gebraucht und mit <nav> meine Webseitenüberschrift mit der Inhaltsangabe gestaltet.
 
 <nav> Tag:
-DIeser Tag definiert eine Reihe von Navigationslinks. Ich habe ebenfalls mit Hilfe der gleichen Webseite wie vom Tag <header> gelernt für was man das Tag <nav> benötigt und wie man es programmieren muss. Ich benutze es wie oben schon erklärt.
+Dieser Tag definiert eine Reihe von Navigationslinks. Ich habe ebenfalls mit Hilfe der gleichen Webseite wie vom Tag <header> gelernt für was man das Tag <nav> benötigt und wie man es programmieren muss. Ich benutze es wie oben schon erklärt.
+
+<section> Tag:
+Ich habe wieder auf der gleichen und anderen Webseiten recherchiert, wie man dieses Tag verwendet und für was. Habe dann gelernt, dass er einen thematischen Block innerhalb der Seite herstellt, die einen eigenen Sinnzusmmenhang haben und idealerweise eine Überschrift haben. Ich habe dann gemerkt, dass ich gerne verschiedene Farben der Unterschiedlichen Unterthemen haben möchte und habe diese dann in die <section> Tags gemacht.
+
+<article> Tag:
+Ich habe verschiedene Webseiten besucht, um heraus zufinden, für was man es verwendet. Man verwendet es für eigenständige Inhalte, die alleine stehen können. Ich wusste, dass man das bei mehreren Themen bei mir nutzen könnte, fand aber den <section> Tag besser, für was ich es verwenden möchte. Habe ihn aber für die Katzenrassen eingesetzt, weil die KI, mir das Vorgeschlagen hat, als ich ihr erklärt habe, wie ich es verwenden möchte.
