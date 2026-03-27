@@ -1,0 +1,24 @@
+
+.Titel {
+    height: 450px;
+    background-image: url(https://fokus-naturfotografie.ch/wp-content/uploads/2021/04/katze_im_gras_adetswil_andreas_raeber_23042021.jpg);
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+    overflow: hidden;
+}
+.Titel::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(255, 255, 255, 0.5);
+}
+.Titel h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 190px;
+    z-index: 1;
+}
