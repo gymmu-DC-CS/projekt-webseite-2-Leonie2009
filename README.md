@@ -20,3 +20,6 @@ Ich habe wieder auf der gleichen und anderen Webseiten recherchiert, wie man die
 
 <article> Tag:
 Ich habe verschiedene Webseiten besucht, um heraus zufinden, für was man es verwendet. Man verwendet es für eigenständige Inhalte, die alleine stehen können. Ich wusste, dass man das bei mehreren Themen bei mir nutzen könnte, fand aber den <section> Tag besser, für was ich es verwenden möchte. Habe ihn aber für die Katzenrassen eingesetzt, weil die KI, mir das Vorgeschlagen hat, als ich ihr erklärt habe, wie ich es verwenden möchte.
+
+Hintergrundbild erstellen:
+Beim diskutieren mit Thea, hat mir THea die Idea gebracht, ein Bild hinter den Titel zu machen. Da ich aber nicht wusste wie das geht, habe ich dann Copilot gefragt. Dieser hat mir dann verschiedene Vorschläge geben und ich habe einfach mal angefangen auszuprobieren.
