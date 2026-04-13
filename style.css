@@ -62,14 +62,23 @@
     line-height: 1.5;
 }
 #Katzenrassen {
-    font-size: 40px;
+    font-size: 25px;
 }
 h4 {
-    font-size: 30px;
+    font-size: 20px;
 }
 .layout {
     background-color: rgb(233, 227, 255);
 }
 p {
-    font-size: 20px;
+    font-size: 15px;
+}
+body {
+    text-align: center;
+}
+h3 {
+    font-size: 28px;
+}
+h2 {
+    font-size: 35px;
 }
