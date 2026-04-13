@@ -1,7 +1,7 @@
 
 .Titel {
     height: 450px;
-    background-image: url(https://fokus-naturfotografie.ch/wp-content/uploads/2021/04/katze_im_gras_adetswil_andreas_raeber_23042021.jpg);
+    background-image: url(https://cattrees.ca/wp-content/uploads/2020/05/cutegingerkitten.jpg);
     background-size: cover;
     background-position: center center;
     position: relative;
@@ -21,4 +21,25 @@
     color: black;
     font-size: 190px;
     z-index: 1;
+}
+.Inhaltsangabe {
+    text-align: center;
+    background-color: rgba(247, 222, 222, 0.5);
+    font-size: 20px;
+    color: black;
+}
+.Grundlagen {
+    background-color: rgb(252, 232, 252);
+}
+.Verhalten {
+    background-color: rgb(232, 237, 255);
+}
+.Katzenrasse {
+    background-color: rgb(242, 236, 255);
+}
+.Haltung {
+    background-color: rgb(234, 255, 232);
+}
+.Gesund {
+    background-color: rgba(247, 246, 222, 0.5);
 }
