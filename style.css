@@ -82,3 +82,42 @@ h3 {
 h2 {
     font-size: 35px;
 }
+
+.slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.content {
+    text-align: center;
+}
+
+#slider-img {
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.arrow {
+    font-size: 40px;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+#slider-caption {
+    font-size: 25px;
+}
+.slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+.arrow {
+    font-size: 40px;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
